@@ -49,12 +49,6 @@ module.exports = {
       unique: true 
     },
 
-    NroTlfn:{
-      type:'int',
-      required: true,
-      unique: true
-    },
-
   }
 };
 

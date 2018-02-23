@@ -40,7 +40,7 @@ module.exports.connections = {
   * Run: npm install sails-mysql@for-sails-0.12 --save                       *
   *                                                                          *
   ***************************************************************************/
-  
+  /*
     metropavoapp: {
     adapter: 'sails-mysql',
     host: 'localhost',
@@ -48,6 +48,15 @@ module.exports.connections = {
     password: 'metropavoapp', //optional
     database: 'metropavoapp' //optional
   },
+  */
+
+  Remotemetropavoapp:{
+    adapter: 'sails-mysql',
+    host:'sql2.freemysqlhosting.net',
+    user: 'sql2222565',
+    password: 'yA8*iX9%',
+    database: 'sql2222565'
+  }
 
   /***************************************************************************
   *                                                                          *

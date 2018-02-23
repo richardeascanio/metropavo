@@ -17,7 +17,7 @@ module.exports.models = {
   * connections (see `config/connections.js`)                                *
   *                                                                          *
   ***************************************************************************/
-connection: 'metropavoapp',
+connection: 'Remotemetropavoapp',
 autoCreatedAt: false,
 autoUpdatedAt: false,
 
